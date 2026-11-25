@@ -1,0 +1,3 @@
+dogunyili=int(input("doğum yılınızı girin: "))
+yas=2026-dogunyili
+print(f"doğum yılınız={dogunyili}, hesaplanan yaşınız= {yas}")
